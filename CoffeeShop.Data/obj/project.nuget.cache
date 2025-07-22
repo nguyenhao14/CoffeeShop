@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VyzBbPqv73w=",
+  "success": true,
+  "projectFilePath": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Data\\CoffeeShop.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HAO\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.301\\microsoft.net.sdk.compilers.toolset.9.0.301.nupkg.sha512",
+    "C:\\Users\\HAO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\HAO\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\HAO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
