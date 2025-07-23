@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VB.NET\\Project\\CoffeeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{393C19E1-0AEB-4BF0-80B8-1720D11B305F}|CoffeeShop.Client\\CoffeeShop.Client.csproj|d:\\vb.net\\project\\coffeeshop\\coffeeshop.client\\forms\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393C19E1-0AEB-4BF0-80B8-1720D11B305F}|CoffeeShop.Client\\CoffeeShop.Client.csproj|solutionrelative:coffeeshop.client\\forms\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C19E1-0AEB-4BF0-80B8-1720D11B305F}|CoffeeShop.Client\\CoffeeShop.Client.csproj|D:\\VB.NET\\Project\\CoffeeShop\\coffeeshop.client\\forms\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393C19E1-0AEB-4BF0-80B8-1720D11B305F}|CoffeeShop.Client\\CoffeeShop.Client.csproj|solutionrelative:coffeeshop.client\\forms\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C19E1-0AEB-4BF0-80B8-1720D11B305F}|CoffeeShop.Client\\CoffeeShop.Client.csproj|D:\\VB.NET\\Project\\CoffeeShop\\coffeeshop.client\\forms\\loading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393C19E1-0AEB-4BF0-80B8-1720D11B305F}|CoffeeShop.Client\\CoffeeShop.Client.csproj|solutionrelative:coffeeshop.client\\forms\\loading.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C19E1-0AEB-4BF0-80B8-1720D11B305F}|CoffeeShop.Client\\CoffeeShop.Client.csproj|D:\\VB.NET\\Project\\CoffeeShop\\coffeeshop.client\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393C19E1-0AEB-4BF0-80B8-1720D11B305F}|CoffeeShop.Client\\CoffeeShop.Client.csproj|solutionrelative:coffeeshop.client\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C19E1-0AEB-4BF0-80B8-1720D11B305F}|CoffeeShop.Client\\CoffeeShop.Client.csproj|D:\\VB.NET\\Project\\CoffeeShop\\coffeeshop.client\\forms\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393C19E1-0AEB-4BF0-80B8-1720D11B305F}|CoffeeShop.Client\\CoffeeShop.Client.csproj|solutionrelative:coffeeshop.client\\forms\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C19E1-0AEB-4BF0-80B8-1720D11B305F}|CoffeeShop.Client\\CoffeeShop.Client.csproj|D:\\VB.NET\\Project\\CoffeeShop\\coffeeshop.client\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393C19E1-0AEB-4BF0-80B8-1720D11B305F}|CoffeeShop.Client\\CoffeeShop.Client.csproj|solutionrelative:coffeeshop.client\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393C19E1-0AEB-4BF0-80B8-1720D11B305F}|CoffeeShop.Client\\CoffeeShop.Client.csproj|D:\\VB.NET\\Project\\CoffeeShop\\coffeeshop.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393C19E1-0AEB-4BF0-80B8-1720D11B305F}|CoffeeShop.Client\\CoffeeShop.Client.csproj|solutionrelative:coffeeshop.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9193163B-D212-4367-AA2A-F143B3CDB71E}|CoffeeShop.Data\\CoffeeShop.Data.csproj|d:\\vb.net\\project\\coffeeshop\\coffeeshop.data\\coffeeshop.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9193163B-D212-4367-AA2A-F143B3CDB71E}|CoffeeShop.Data\\CoffeeShop.Data.csproj|solutionrelative:coffeeshop.data\\coffeeshop.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 163,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1638647529:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1463608315:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2077533209:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Loading.cs",
+              "DocumentMoniker": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Client\\Forms\\Loading.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Client\\Forms\\Loading.cs",
+              "ToolTip": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Client\\Forms\\Loading.cs",
+              "RelativeToolTip": "CoffeeShop.Client\\Forms\\Loading.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:58:36.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loading.Designer.cs",
+              "DocumentMoniker": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Client\\Forms\\Loading.Designer.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Client\\Forms\\Loading.Designer.cs",
+              "ToolTip": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Client\\Forms\\Loading.Designer.cs",
+              "RelativeToolTip": "CoffeeShop.Client\\Forms\\Loading.Designer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:39:22.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loading.cs [Design]",
+              "DocumentMoniker": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Client\\Forms\\Loading.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Client\\Forms\\Loading.cs",
+              "ToolTip": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Client\\Forms\\Loading.cs [Design]",
+              "RelativeToolTip": "CoffeeShop.Client\\Forms\\Loading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:38:31.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Client\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Client\\Forms\\Login.cs",
+              "ToolTip": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Client\\Forms\\Login.cs",
+              "RelativeToolTip": "CoffeeShop.Client\\Forms\\Login.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:43:49.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Client\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Client\\Forms\\Login.cs",
+              "ToolTip": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Client\\Forms\\Login.cs [Design]",
+              "RelativeToolTip": "CoffeeShop.Client\\Forms\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:54:45.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Client\\Forms\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Client\\Forms\\Login.Designer.cs",
+              "ToolTip": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Client\\Forms\\Login.Designer.cs",
+              "RelativeToolTip": "CoffeeShop.Client\\Forms\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:43:56.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Client\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeShop.Client\\Program.cs",
+              "ToolTip": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Client\\Program.cs",
+              "RelativeToolTip": "CoffeeShop.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:14:57.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoffeeShop.Data.csproj",
+              "DocumentMoniker": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Data\\CoffeeShop.Data.csproj",
+              "RelativeDocumentMoniker": "CoffeeShop.Data\\CoffeeShop.Data.csproj",
+              "ToolTip": "D:\\VB.NET\\Project\\CoffeeShop\\CoffeeShop.Data\\CoffeeShop.Data.csproj",
+              "RelativeToolTip": "CoffeeShop.Data\\CoffeeShop.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T08:14:56.758Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 237,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

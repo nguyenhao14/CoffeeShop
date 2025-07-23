@@ -1,0 +1,17 @@
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\bin\Debug\CoffeeShop.Client.exe.config
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\bin\Debug\CoffeeShop.Client.exe
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\bin\Debug\CoffeeShop.Client.pdb
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\obj\Debug\CoffeeShop.Client.csproj.AssemblyReference.cache
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\obj\Debug\CoffeeShop.Client.Properties.Resources.resources
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\obj\Debug\CoffeeShop.Client.csproj.GenerateResource.cache
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\obj\Debug\CoffeeShop.Client.csproj.CoreCompileInputs.cache
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\obj\Debug\CoffeeShop.Client.exe
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\obj\Debug\CoffeeShop.Client.pdb
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\bin\Debug\Guna.UI2.dll
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\bin\Debug\Newtonsoft.Json.dll
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\bin\Debug\System.CodeDom.dll
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\bin\Debug\Newtonsoft.Json.xml
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\bin\Debug\System.CodeDom.xml
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\obj\Debug\CoffeeShop.Client.Login.resources
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\obj\Debug\CoffeeSh.046C9426.Up2Date
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Client\obj\Debug\CoffeeShop.Client.Forms.Loading.resources

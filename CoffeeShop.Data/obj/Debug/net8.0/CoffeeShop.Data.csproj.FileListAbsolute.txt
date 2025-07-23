@@ -1,0 +1,12 @@
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Data\bin\Debug\net8.0\CoffeeShop.Data.deps.json
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Data\bin\Debug\net8.0\CoffeeShop.Data.dll
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Data\bin\Debug\net8.0\CoffeeShop.Data.pdb
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Data\obj\Debug\net8.0\CoffeeShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Data\obj\Debug\net8.0\CoffeeShop.Data.AssemblyInfoInputs.cache
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Data\obj\Debug\net8.0\CoffeeShop.Data.AssemblyInfo.cs
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Data\obj\Debug\net8.0\CoffeeShop.Data.csproj.CoreCompileInputs.cache
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Data\obj\Debug\net8.0\CoffeeShop.Data.sourcelink.json
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Data\obj\Debug\net8.0\CoffeeShop.Data.dll
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Data\obj\Debug\net8.0\refint\CoffeeShop.Data.dll
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Data\obj\Debug\net8.0\CoffeeShop.Data.pdb
+D:\VB.NET\Project\CoffeeShop\CoffeeShop.Data\obj\Debug\net8.0\ref\CoffeeShop.Data.dll
